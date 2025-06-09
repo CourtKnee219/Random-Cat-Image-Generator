@@ -44,3 +44,12 @@ class UserSettings {
     this.autoRefresh = autoRefresh;
   }
 }
+
+//DOM Elements
+const breedSelect = document.getElementById("breedSelect");
+const newCatBtn = document.getElementById("newCatBtn");
+const catImage = document.getElementById("catImage");
+const catInfo = document.getElementById("catInfo");
+const favBtn = document.getElementById("favBtn");
+const favoritesContainer = document.getElementById("favorites");
+const breedSearch = document.getElementById("breedSearch");
