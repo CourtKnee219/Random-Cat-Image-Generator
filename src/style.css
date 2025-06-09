@@ -12,3 +12,16 @@ header {
     background-color: #ffc6d0;
     padding: 1rem;
 }
+
+.controls {
+  margin-bottom: 1rem;
+}
+
+#breedSelect,
+#breedSearch,
+#newCatBtn,
+#favBtn {
+  margin: 0.3rem;
+  padding: 0.5rem;
+  font-size: 1rem;
+}
