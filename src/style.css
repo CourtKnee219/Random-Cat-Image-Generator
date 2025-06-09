@@ -25,3 +25,18 @@ header {
   padding: 0.5rem;
   font-size: 1rem;
 }
+
+.cat-container {
+  margin: 1rem 0;
+}
+
+#catImage {
+  max-width: 100%;
+  border-radius: 8px;
+  box-shadow: 0 0 10px #ffb6c1;
+}
+
+#catInfo {
+  margin-top: 0.5rem;
+  font-weight: bold;
+}
